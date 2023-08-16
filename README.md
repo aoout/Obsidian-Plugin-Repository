@@ -11,6 +11,7 @@
 - [makemd](https://github.com/Make-md/makemd)
 - [advanced-paste](https://github.com/kxxt/obsidian-advanced-paste)
 - [fuzzy-chinese](https://github.com/lazyloong/obsidian-fuzzy-chinese)
+- [plugin-groups](https://github.com/Mocca101/obsidian-plugin-groups)
 
 ## Localize web resources
 

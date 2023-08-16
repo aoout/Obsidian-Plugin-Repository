@@ -39,3 +39,4 @@
 ## Syncthing
 
 - [syncthing-integration](https://github.com/LBF38/obsidian-syncthing-integration)
+- [media-extended](https://github.com/tong118/media-extended)

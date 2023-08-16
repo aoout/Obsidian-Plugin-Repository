@@ -25,6 +25,7 @@
 - [link-embed](https://github.com/Seraphli/obsidian-link-embed)
 - [any-block](https://github.com/LincZero/obsidian-any-block)
 - [chat-view](https://github.com/adifyr/obsidian-chat-view)
+- [datacore](https://github.com/blacksmithgu/datacore)
 
 ## more file formats
 

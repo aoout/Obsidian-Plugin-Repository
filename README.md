@@ -25,3 +25,16 @@
 - [link-embed](https://github.com/Seraphli/obsidian-link-embed)
 - [any-block](https://github.com/LincZero/obsidian-any-block)
 - [chat-view](https://github.com/adifyr/obsidian-chat-view)
+
+## more file formats
+
+- [awesome-reader](https://github.com/AwesomeDog/obsidian-awesome-reader)
+- [awesome-image](https://github.com/AwesomeDog/obsidian-awesome-image)
+
+## online integration
+
+- [Surfing](https://github.com/PKM-er/Obsidian-Surfing)
+
+## Syncthing
+
+- [syncthing-integration](https://github.com/LBF38/obsidian-syncthing-integration)

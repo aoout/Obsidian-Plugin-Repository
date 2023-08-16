@@ -26,6 +26,7 @@
 - [any-block](https://github.com/LincZero/obsidian-any-block)
 - [chat-view](https://github.com/adifyr/obsidian-chat-view)
 - [datacore](https://github.com/blacksmithgu/datacore)
+- [markdown-tree-plugin](https://github.com/carvah/markdown-tree-plugin)
 
 ## more file formats
 

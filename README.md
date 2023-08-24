@@ -28,6 +28,7 @@
 - [chat-view](https://github.com/adifyr/obsidian-chat-view)
 - [datacore](https://github.com/blacksmithgu/datacore)
 - [markdown-tree-plugin](https://github.com/carvah/markdown-tree-plugin)
+- [dataloom](https://github.com/trey-wallis/obsidian-dataloom)
 
 ## more file formats
 

@@ -2,16 +2,23 @@
 
 ## Better basic ability
 
-- [better-search-views](https://github.com/ivan-lednev/better-search-views)
+- [better-command-palette](https://github.com/AlexBieg/obsidian-better-command-palette)
 - [link-tree](https://github.com/joshuatazrein/obsidian-link-tree)
 - [influx](https://github.com/jensmtg/influx)
 - [file-tree-alteranative](https://github.com/ozntel/file-tree-alternative)
-- [another-quick-switcher](https://github.com/tadashi-aikawa/obsidian-another-quick-switcher)
 - [note-refactor-obsidian](https://github.com/lynchjames/note-refactor-obsidian)
 - [makemd](https://github.com/Make-md/makemd)
 - [advanced-paste](https://github.com/kxxt/obsidian-advanced-paste)
-- [fuzzy-chinese](https://github.com/lazyloong/obsidian-fuzzy-chinese)
 - [plugin-groups](https://github.com/Mocca101/obsidian-plugin-groups)
+- [File-Property-Enhancer](https://github.com/Quorafind/Obsidian-File-Property-Enhancer)
+
+### Better Search
+
+- [better-search-views](https://github.com/ivan-lednev/better-search-views)
+- [another-quick-switcher](https://github.com/tadashi-aikawa/obsidian-another-quick-switcher)
+- [fuzzy-chinese](https://github.com/lazyloong/obsidian-fuzzy-chinese)
+- [Float-Search](https://github.com/Quorafind/Obsidian-Float-Search)
+- [omnisearch](https://github.com/scambier/obsidian-omnisearch)
 
 ## Localize web resources
 
